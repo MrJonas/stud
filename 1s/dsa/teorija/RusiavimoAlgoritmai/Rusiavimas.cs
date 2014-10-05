@@ -5,8 +5,16 @@ public class Rikiavimas{
 		//Išrinkimo algoritmas:
 		int[] rinkinys = new int[5] { 7, 4, 9, 16, 42 };
 		rinkinys = Isrinkimo (rinkinys);
+		Console.WriteLine ("Isrinkimo: " );
 		for (int j = 0; j < rinkinys.Length; j++) {
-			Console.WriteLine ("Isrinkimo: " + rinkinys[j]);
+			Console.WriteLine (rinkinys[j] + " ");
+		}
+		//Iterpimo algoritmas:
+		int[]rinkinys2 = new int[5] { 7, 4, 9, 16, 42 };
+		rinkinys2 = Iterpimo (rinkinys2);
+		Console.WriteLine ("Iterpimo: ");
+		for (int j = 0; j < rinkinys2.Length; j++) {
+			Console.WriteLine (rinkinys2[j] + " ");
 		}
 	}
 
@@ -29,11 +37,23 @@ public class Rikiavimas{
 		}
 		return masyvas;
 	}
-	//Burbulo algoritmas:
 
 	//Iterpimo algoritmas:
-
+	static int[] Iterpimo(int[] masyvas){
+		for (int i = 0; i < masyvas.Length; i++) {
+			int j = i;
+			int temp = masyvas [i];
+			while (j < masyvas.Length - 1 && temp > masyvas[j+1]){
+				masyvas [j] = masyvas [j + 1];
+				j++;
+				}
+			masyvas [j] = temp;
+			}
+		return masyvas;
+		}	
 	//Šelo algoritmas:
+	//Burbulo algoritmas:
+
 
 
 }
