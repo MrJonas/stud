@@ -1,0 +1,9 @@
+C:\Users\Jonas\Desktop\DSAimplement\wf\kelias\kelias\bin\Debug\kelias.exe.config
+C:\Users\Jonas\Desktop\DSAimplement\wf\kelias\kelias\bin\Debug\kelias.exe
+C:\Users\Jonas\Desktop\DSAimplement\wf\kelias\kelias\bin\Debug\kelias.pdb
+C:\Users\Jonas\Desktop\DSAimplement\wf\kelias\kelias\obj\Debug\kelias.csprojResolveAssemblyReference.cache
+C:\Users\Jonas\Desktop\DSAimplement\wf\kelias\kelias\obj\Debug\kelias.Form1.resources
+C:\Users\Jonas\Desktop\DSAimplement\wf\kelias\kelias\obj\Debug\kelias.Properties.Resources.resources
+C:\Users\Jonas\Desktop\DSAimplement\wf\kelias\kelias\obj\Debug\kelias.csproj.GenerateResource.Cache
+C:\Users\Jonas\Desktop\DSAimplement\wf\kelias\kelias\obj\Debug\kelias.exe
+C:\Users\Jonas\Desktop\DSAimplement\wf\kelias\kelias\obj\Debug\kelias.pdb
