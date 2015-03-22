@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.6">
+<file name="/home/john/eclipse/task01/src/main/java/lt/vu/mif/jate/task01/utility/StringUtility.java">
+</file>
+<file name="/home/john/eclipse/task01/src/main/java/lt/vu/mif/jate/task01/utility/package-info.java">
+</file>
+<file name="/home/john/eclipse/task01/src/main/java/lt/vu/mif/jate/task01/garage/car/FamilyCar.java">
+</file>
+<file name="/home/john/eclipse/task01/src/main/java/lt/vu/mif/jate/task01/garage/car/SportsCar.java">
+</file>
+<file name="/home/john/eclipse/task01/src/main/java/lt/vu/mif/jate/task01/garage/car/package-info.java">
+</file>
+<file name="/home/john/eclipse/task01/src/main/java/lt/vu/mif/jate/task01/garage/car/Bus.java">
+</file>
+<file name="/home/john/eclipse/task01/src/main/java/lt/vu/mif/jate/task01/garage/Garage.java">
+</file>
+<file name="/home/john/eclipse/task01/src/main/java/lt/vu/mif/jate/task01/garage/package-info.java">
+</file>
+<file name="/home/john/eclipse/task01/src/main/java/lt/vu/mif/jate/task01/garage/Car.java">
+</file>
+<file name="/home/john/eclipse/task01/src/main/java/lt/vu/mif/jate/task01/bank/Account.java">
+</file>
+<file name="/home/john/eclipse/task01/src/main/java/lt/vu/mif/jate/task01/bank/package-info.java">
+</file>
+<file name="/home/john/eclipse/task01/src/main/java/lt/vu/mif/jate/task01/bank/Bank.java">
+</file>
+</checkstyle>
