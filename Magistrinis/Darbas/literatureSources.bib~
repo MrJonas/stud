@@ -1,0 +1,29 @@
+@Misc{LTV,
+  author = 	 {Kai Lieska and Erkki Laitinen and Jaakko Lahteenmaki},
+  title = 	 {Radio Coverage Optimization with Genetic Algorithms},
+  year = 	 1998,
+  howpublished = {Department of Mathematical Sciences, University of Oulu. Infotech Linnanmaa. Finland}}
+
+@Misc{KTZ,
+  author = 	 {Fernando Aguado-Agelet and Aurea M. Martínez Varela and Lino J. Alvarez-Vázquez and José M. Hernando and Arno Formella},
+  title = 	 {Optimization Methods for Optimal Transmitter Locations in a Mobile Wireless System},
+  year = 	 2002}
+
+@Misc{LT2,
+  author = 	 {Donna Fagen and Pablo A. Vicharelli and Jay Weitzen},
+  title = 	 {Automated Wireless Coverage Optimization With Controlled Overlap},
+  year = 	 2008}
+
+@Misc{LT3,
+  author = 	 {J. He and A. Verstak and N. Ramakrishnan and L. T. Watson and C. A. Shaffer and T. S. Rappaport and W. H. Tranter and C. R. Anderson and K. Bae and J. Jiang},
+  title = 	 {Global Optimization of Transmitter Placement in Wireless Communication Systems},
+  howpublished = {Bradley Department of Electrical and Computer Engineering. Virginia Polytechnic Institute and State University Blacksburg. Virginia}}
+
+@Misc{LT4,
+  author = 	 {Chuan-Chin Pu and Chuan-Hsian Pu and and Hoon-Jae Lee},
+  title = 	 {Indoor Location Tracking using Received Signal Strength Indicator},
+  howpublished = {Sunway University College. Taylor’s University College. Dongseo University Malaysia. South Korea}}
+
+
+
+

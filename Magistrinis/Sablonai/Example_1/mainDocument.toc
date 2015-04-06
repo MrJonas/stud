@@ -1,0 +1,22 @@
+\select@language {lithuanian}
+\contentsline {section}{\numberline {1}Iliustracijos, lentel\IeC {\.e}s ir pseudokodas}{3}{section.1}
+\contentsline {subsection}{\numberline {1.1}Reikalavimai iliustracijoms ir lentel\IeC {\.e}ms}{3}{subsection.1.1}
+\contentsline {subsubsection}{\numberline {1.1.1}Reikalavimai iliustracij\IeC {\k u} apra\IeC {\v s}ymui}{3}{subsubsection.1.1.1}
+\contentsline {subsubsection}{\numberline {1.1.2}Reikalavimai iliustracij\IeC {\k u} apipavidalinimui}{3}{subsubsection.1.1.2}
+\contentsline {subsubsection}{\numberline {1.1.3}Kita informacija apie iliustracijas ir lenteles}{4}{subsubsection.1.1.3}
+\contentsline {subsection}{\numberline {1.2}Iliustracij\IeC {\k u} pavyzd\IeC {\v z}iai}{4}{subsection.1.2}
+\contentsline {subsubsection}{\numberline {1.2.1}Pirmas iliustracijos pavyzdys}{4}{subsubsection.1.2.1}
+\contentsline {subsubsection}{\numberline {1.2.2}Antras iliustracijos pavyzdys}{5}{subsubsection.1.2.2}
+\contentsline {subsubsection}{\numberline {1.2.3}Tre\IeC {\v c}ias iliustracijos pavyzdys}{6}{subsubsection.1.2.3}
+\contentsline {subsubsection}{\numberline {1.2.4}Ketvirtas iliustracijos pavyzdys}{7}{subsubsection.1.2.4}
+\contentsline {subsection}{\numberline {1.3}Iliustracijos ir lentel\IeC {\.e}s pavyzdys}{8}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}Lentel\IeC {\.e}s pavyzdys}{11}{subsection.1.4}
+\contentsline {subsection}{\numberline {1.5}Pseudokodo pavyzdys}{12}{subsection.1.5}
+\contentsline {section}{\numberline {2}\IeC {\v S}ablonas}{14}{section.2}
+\contentsline {subsection}{\numberline {2.1}Darb\IeC {\k u} tipai}{14}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Dokumento strukt\IeC {\=u}ra}{14}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Literat\IeC {\=u}ros \IeC {\v s}altiniai}{15}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Pseudo-kodas ir programinio kodo dalys}{15}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}Paveiksl\IeC {\.e}li\IeC {\k u} paruo\IeC {\v s}imas}{15}{subsection.2.5}
+\contentsline {subsection}{\numberline {2.6}Sud\IeC {\.e}tingesn\IeC {\.e}s lentel\IeC {\.e}s}{17}{subsection.2.6}
+\contentsline {section}{Literat\IeC {\=u}ros \IeC {\v s}altiniai}{18}{section*.12}

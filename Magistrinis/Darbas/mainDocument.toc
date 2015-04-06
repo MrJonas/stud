@@ -1,0 +1,19 @@
+\select@language {lithuanian}
+\contentsline {section}{Santrauka}{3}{section*.1}
+\contentsline {section}{Summary}{4}{section*.2}
+\contentsline {section}{\nameref {sec:intro}}{5}{section*.3}
+\contentsline {section}{\numberline {1}Lokacijos sistemos}{6}{section.1}
+\contentsline {subsection}{\numberline {1.1}Sklidimo modelis}{6}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Apytiksl\IeC {\.e}s lokacijos sistemos}{6}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Trianguliacin\IeC {\.e}s lokacijos sistemos}{6}{subsection.1.3}
+\contentsline {subsubsection}{\numberline {1.3.1}Pagal kamp\IeC {\k a}}{6}{subsubsection.1.3.1}
+\contentsline {subsubsection}{\numberline {1.3.2}Pagal signalo stiprum\IeC {\k a}}{6}{subsubsection.1.3.2}
+\contentsline {subsubsection}{\numberline {1.3.3}Pagal signalo sklidimo laik\IeC {\k a}}{6}{subsubsection.1.3.3}
+\contentsline {section}{\numberline {2}Trianguliacijos si\IeC {\k u}stuv\IeC {\k u} lokacijos optimizacijos algoritmai}{6}{section.2}
+\contentsline {subsubsection}{\numberline {2.0.4}DIRECT}{6}{subsubsection.2.0.4}
+\contentsline {subsubsection}{\numberline {2.0.5}Kontroliuojama sankirta}{6}{subsubsection.2.0.5}
+\contentsline {subsubsection}{\numberline {2.0.6}kt}{6}{subsubsection.2.0.6}
+\contentsline {section}{\numberline {3}Genetiniai algoritmai}{6}{section.3}
+\contentsline {section}{\nameref {sec:conclu}}{7}{section*.4}
+\contentsline {section}{\nameref {sec:future}}{8}{section*.5}
+\contentsline {section}{Literat\IeC {\=u}ros \IeC {\v s}altiniai}{9}{section*.6}

@@ -1,0 +1,53 @@
+\begin{thebibliography}{1}
+
+\bibitem{Cormen}
+Thomas~H. Cormen, Charles~E. Leiserson, Ronald~L. Rivest, and Clif\mbox{}ford
+  Stein.
+\newblock {\em {Introduction to Algorihms}}.
+\newblock The MIT Press, 3rd edition, 2009.
+
+\bibitem{KTZ}
+Valentina Dagienė, Gintautas Grigas, and Tatjana Jevsikova.
+\newblock Anglų–lietuvių kalbų kom\-piuterijos žodynas.
+\newblock Vilniaus universitetas. Matematikos ir informatikos institutas, 2012.
+\newblock \newline \url{http://ims.mii.lt/ALK\%C5\%BD/}.
+
+\bibitem{dblp}
+{dblp. Computer Science Bibliography}.
+\newblock \url{http://dblp.uni-trier.de/db/}.
+
+\bibitem{Eurostat}
+European~Commission. Eurostat.
+\newblock Browse / search database, 2014.
+\newblock
+  \url{http://epp.eurostat.ec.europa.eu/portal/page/portal/statistics/search_database}.
+
+\bibitem{GnuPlot}
+Gnuplot homepage, November 2014.
+\newblock \url{http://www.gnuplot.info/}.
+
+\bibitem{LinuxCom}
+O'Reilly Media, Inc.
+\newblock {\em Linux in a Nutshell. Linux Command Directory}, 5th edition
+  edition, 2014.
+\newblock \url{http://www.linuxdevcenter.com/cmd/}.
+
+\bibitem{Spatial}
+Philippe Rigaux, Michel Scholl, and Agnes Voisard.
+\newblock {\em {Spatial Databases with Application to GIS}}.
+\newblock Morgan Kaufmann Publishers, 2002.
+
+\bibitem{SSJ14}
+Darius Sidlauskas, Simonas Saltenis, and Christian~S. Jensen.
+\newblock Processing of extreme moving-object update and query workloads in
+  main memory.
+\newblock {\em {VLDB} J.}, 23(5):817--841, 2014.
+
+\bibitem{SJK03}
+Laurynas Speicys, Christian~S. Jensen, and Augustas Kligys.
+\newblock Computational data modeling for network-constrained moving objects.
+\newblock In {\em {ACM-GIS} 2003, Proceedings of the Eleventh {ACM}
+  International Symposium on Advances in Geographic Information Systems, New
+  Orleans, Louisiana, USA, November 7-8, 2003}, pages 118--125, 2003.
+
+\end{thebibliography}

@@ -1,0 +1,34 @@
+\begin{thebibliography}{1}
+
+\bibitem{L2}
+Fernando Aguado-Agelet, Aurea M.~Martínez Varela, Lino~J. Alvarez-Vázquez,
+  José~M. Hernando, and Arno Formella.
+\newblock Optimization methods for optimal transmitter locations in a mobile
+  wireless system, 2002.
+
+\bibitem{L3}
+Donna Fagen, Pablo~A. Vicharelli, and Jay Weitzen.
+\newblock Automated wireless coverage optimization with controlled overlap,
+  2008.
+
+\bibitem{L4}
+J.~He, A.~Verstak, N.~Ramakrishnan, L.~T. Watson, C.~A. Shaffer, T.~S.
+  Rappaport, W.~H. Tranter, C.~R. Anderson, K.~Bae, and J.~Jiang.
+\newblock Global optimization of transmitter placement in wireless
+  communication systems.
+\newblock Bradley Department of Electrical and Computer Engineering. Virginia
+  Polytechnic Institute and State University Blacksburg. Virginia.
+
+\bibitem{L1}
+Kai Lieska, Erkki Laitinen, and Jaakko Lahteenmaki.
+\newblock Radio coverage optimization with genetic algorithms.
+\newblock Department of Mathematical Sciences, University of Oulu. Infotech
+  Linnanmaa. Finland, 1998.
+
+\bibitem{L5}
+Chuan-Chin Pu, Chuan-Hsian Pu, , and Hoon-Jae Lee.
+\newblock Indoor location tracking using received signal strength indicator.
+\newblock Sunway University College. Taylor’s University College. Dongseo
+  University Malaysia. South Korea.
+
+\end{thebibliography}
